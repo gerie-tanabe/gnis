@@ -1,0 +1,1270 @@
+***  Installation Started 02/14/02 10:53  ***
+Title: MapObjects 1.2 Installation
+Source: J:\Setup.EXE
+File Overwrite: C:\Program Files\ESRI\MapObjects\Mo10.ocx
+File Copy: C:\Program Files\ESRI\MapObjects\Mo10.oca
+File Overwrite: C:\Program Files\ESRI\MapObjects\Mo10.lic
+File Overwrite: C:\Program Files\ESRI\MapObjects\MapObjects12.pdf
+File Overwrite: C:\Program Files\ESRI\MapObjects\AF10.dll
+File Overwrite: C:\Program Files\ESRI\MapObjects\AFCust10.tlb
+File Overwrite: C:\Program Files\ESRI\MapObjects\Shape.dll
+File Overwrite: C:\Program Files\ESRI\MapObjects\OdbcTbl.dll
+File Overwrite: C:\Program Files\ESRI\MapObjects\Developer Connection.url
+File Overwrite: C:\Program Files\ESRI\MapObjects\RegSvr32.exe
+File Overwrite: C:\Program Files\ESRI\MapObjects\MoPlus.dll
+File Overwrite: C:\Program Files\ESRI\MapObjects\MapObjects.cnt
+Date/Time: Following file not copied.
+ File Copy: C:\Program Files\ESRI\MapObjects\MapObjects.FTG
+Date/Time: Following file not copied.
+ File Copy: C:\Program Files\ESRI\MapObjects\MapObjects.FTS
+Date/Time: Following file not copied.
+ File Copy: C:\Program Files\ESRI\MapObjects\MapObjects.GID
+File Overwrite: C:\Program Files\ESRI\MapObjects\MapObjects.hlp
+File Overwrite: C:\Program Files\ESRI\MapObjects\MoSamples.cnt
+File Copy: C:\Program Files\ESRI\MapObjects\MoSamples.FTG
+File Copy: C:\Program Files\ESRI\MapObjects\MoSamples.FTS
+Date/Time: Following file not copied.
+ File Copy: C:\Program Files\ESRI\MapObjects\MoSamples.GID
+File Overwrite: C:\Program Files\ESRI\MapObjects\MoSamples.hlp
+File Overwrite: C:\Program Files\ESRI\MapObjects\MoPlus.cnt
+File Copy: C:\Program Files\ESRI\MapObjects\MoPlus.FTG
+Date/Time: Following file not copied.
+ File Copy: C:\Program Files\ESRI\MapObjects\MoPlus.FTS
+Date/Time: Following file not copied.
+ File Copy: C:\Program Files\ESRI\MapObjects\MoPlus.GID
+File Overwrite: C:\Program Files\ESRI\MapObjects\MoPlus.hlp
+File Overwrite: C:\Program Files\ESRI\MapObjects\WebLink.cnt
+File Copy: C:\Program Files\ESRI\MapObjects\WebLink.FTG
+Date/Time: Following file not copied.
+ File Copy: C:\Program Files\ESRI\MapObjects\WebLink.FTS
+Date/Time: Following file not copied.
+ File Copy: C:\Program Files\ESRI\MapObjects\WebLink.GID
+File Overwrite: C:\Program Files\ESRI\MapObjects\WebLink.hlp
+RegDB Key: SOFTWARE\Microsoft\Windows\Help
+RegDB Val: C:\Program Files\ESRI\MapObjects
+RegDB Name: WebLink.cnt
+RegDB Root: 2
+RegDB Old: C:\Program Files\ESRI\MapObjects
+RegDB Key: SOFTWARE\Microsoft\Windows\Help
+RegDB Val: C:\Program Files\ESRI\MapObjects
+RegDB Name: WebLink.hlp
+RegDB Root: 2
+RegDB Old: C:\Program Files\ESRI\MapObjects
+RegDB Key: SOFTWARE\Microsoft\Windows\Help
+RegDB Val: C:\Program Files\ESRI\MapObjects
+RegDB Name: MapObjects.hlp
+RegDB Root: 2
+RegDB Old: C:\Program Files\ESRI\MapObjects
+RegDB Key: SOFTWARE\Microsoft\Windows\Help
+RegDB Val: C:\Program Files\ESRI\MapObjects
+RegDB Name: MapObjects.cnt
+RegDB Root: 2
+RegDB Old: C:\Program Files\ESRI\MapObjects
+RegDB Key: SOFTWARE\Microsoft\Windows\Help
+RegDB Val: C:\Program Files\ESRI\MapObjects
+RegDB Name: MoSamples.hlp
+RegDB Root: 2
+RegDB Old: C:\Program Files\ESRI\MapObjects
+RegDB Key: SOFTWARE\Microsoft\Windows\Help
+RegDB Val: C:\Program Files\ESRI\MapObjects
+RegDB Name: MoSamples.cnt
+RegDB Root: 2
+RegDB Old: C:\Program Files\ESRI\MapObjects
+RegDB Key: SOFTWARE\Microsoft\Windows\Help
+RegDB Val: C:\Program Files\ESRI\MapObjects
+RegDB Name: MoPlus.hlp
+RegDB Root: 2
+RegDB Old: C:\Program Files\ESRI\MapObjects
+RegDB Key: SOFTWARE\Microsoft\Windows\Help
+RegDB Val: C:\Program Files\ESRI\MapObjects
+RegDB Name: MoPlus.cnt
+RegDB Root: 2
+RegDB Old: C:\Program Files\ESRI\MapObjects
+File Overwrite: C:\Program Files\ESRI\MapObjects\Coverage.dll
+File Overwrite: C:\Program Files\ESRI\MapObjects\InfoTable.dll
+File Overwrite: C:\Program Files\ESRI\MapObjects\JetTable.dll
+File Overwrite: C:\Program Files\ESRI\MapObjects\Aiimage.dll
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Diagram\Mo12Diag.doc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Diagram\Mo12Diag.pdf
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Diagram\Mo12Diag.vsd
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Diagram\ReadMe.wri
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\MapObjects.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\MapObjects.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\UsaMap.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\UsaMap.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\UsaMap.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\UsaMap.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\UsaMap.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\UsaMap.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\UsaMapDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\UsaMapDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\UsaMapView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\UsaMapView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\res\title.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\res\usaMap.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\res\usaMap.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\UsaMap\res\usaMapDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\ThematicMap\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\ThematicMap\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\ThematicMap\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\ThematicMap\ThematicMap.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\ThematicMap\ThematicMap.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\ThematicMap\ThematicMap.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\ThematicMap\ThematicMap.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\ThematicMap\ThematicMap.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\ThematicMap\ThematicMap.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\ThematicMap\ThematicMap.ncb
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\ThematicMap\ThematicMap.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\ThematicMap\ThematicMapDlg.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\ThematicMap\ThematicMapDlg.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\ThematicMap\res\ThematicMap.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\ThematicMap\res\ThematicMap.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\MoPlus.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\MoPlus.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\MoPlusC.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\MoPlusC.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\MoPlusC.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\MoPlusC.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\MoPlusC.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\MoPlusC.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\MoPlusC.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\MoPlusCDlg.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\MoPlusCDlg.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\Resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\res\MoPlusC.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MoPlusC\res\MoPlusC.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\ChildFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\ChildFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\IpFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\IpFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\mdi.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\mdi.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\mdi.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\mdi.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\mdi.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\mdi.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\mdi.reg
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\mdiDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\mdiDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\mdiView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\mdiView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\SrvrItem.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\SrvrItem.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\res\IToolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\res\mainfram.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\res\mdi.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\res\mdi.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\res\mdiDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\MDI\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\Doc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\Doc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\IpFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\IpFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\Layout.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\Layout.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\Layout.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\Layout.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\Layout.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\Layout.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\Layout.reg
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\MapPartFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\MapPartFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\MapParts.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\MapParts.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\Scale.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\ScaleFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\scaleframe.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\SrvrItem.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\SrvrItem.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\TitleFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\TitleFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\View.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\View.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\res\Doc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\res\IToolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\res\Layout.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\res\Layout.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\res\mainfram.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Layout\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\IconPoints.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\IconPoints.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\IconPoints.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\IconPoints.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\IconPoints.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\IconPoints.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\IconPoints.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\IconPointsDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\IconPointsDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\IconPointsView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\IconPointsView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\res\bitmap1.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\res\icon1.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\res\IconPoints.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\res\IconPoints.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\res\IconPointsDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\IconPoints\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\ReadMe.doc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\COMObj.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\COMObj.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\ComUtil.CPP
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\ComUtil.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\GUIDS.CPP
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\guids.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\Interfaces.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\MoHelper.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\MoHelper.def
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\MoHelper.H
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\MoHelper.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\MoHelper.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\MoHelper.odl
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\MoHelper.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\MultiShape.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\MultiShape.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\Shape.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MoHelper\Shape.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\CustomSymApp.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\CustomSymApp.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\CustomSymApp.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\CustomSymApp.frm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\CustomSymApp.frx
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\CustomSymApp.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\CustomSymApp.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\CustomSymApp.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\CustomSymApp.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\CustomSymApp.vbp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\CustomSymAppDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\CustomSymAppDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\CustomSymAppView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\CustomSymAppView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\customsymbol.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\customsymbol.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\Resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\res\CustomSymApp.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\res\CustomSymApp.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\res\CustomSymAppDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\res\line.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\res\sign.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\MFCApp\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\CustomSymbol.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\CustomSymbol.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\CustomSymbol.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\CustomSymbol.def
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\CustomSymbol.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\CustomSymbol.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\CustomSymbol.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\CustomSymbol.odl
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\CustomSymbol.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\IconMarker.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\IconMarker.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\RailLine.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\RailLine.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\Resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\SimpleFill.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\SimpleFill.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\StdAfx.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Mfc\res\CustomSymbol.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppVbApp\CustomSymbol.frm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppVbApp\CustomSymbol.frx
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppVbApp\customsymbol.vbp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppVbApp\dot.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppVbApp\Samples.bas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\CustomSymApp.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\CustomSymApp.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\CustomSymApp.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\CustomSymApp.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\CustomSymApp.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\CustomSymApp.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\CustomSymApp.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\CustomSymAppDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\CustomSymAppDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\CustomSymAppView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\CustomSymAppView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\Resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\res\CustomSymApp.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\res\CustomSymApp.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\res\CustomSymAppDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\res\line.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\res\sign.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\CppApp\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\AFCust10.tlb
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\COMObj.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\COMObj.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\ComUtil.CPP
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\ComUtil.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\CustomSymbol.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\CustomSymbol.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\CustomSymbol.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\CustomSymbol.def
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\CustomSymbol.H
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\CustomSymbol.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\CustomSymbol.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\CustomSymbol.odl
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\CustomSymbol.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\GUIDS.CPP
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\guids.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\IconMarker.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\IconMarker.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\Interfaces.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\moAutoMap.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\moAutoMap.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\moAutoSymbol.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\moAutoSymbol.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\RailLine.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\RailLine.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\SimpleFill.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CustomSymbol\Cpp\SimpleFill.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Common\AFCust10.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Common\AFCust10.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Common\ColorPalette.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Common\MapHelper.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Common\MapHelper.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Common\MapObjects.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Common\MapObjects.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Common\MoPlus.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Common\MoPlus.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\Common\stdafx.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\IpFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\IpFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Map.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Map.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Map.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Map.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Map.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Map.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Map.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Map.reg
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\MapDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\MapDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\MapObjects.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\MapObjects.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\MapView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\MapView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\SrvrItem.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\SrvrItem.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\StdAfx.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\IpFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\IpFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\Map.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\Map.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\Map.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\Map.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\Map.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\Map.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\Map.ncb
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\Map.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\Map.reg
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\MapDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\MapDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\MapObjects.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\MapObjects.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\MapView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\MapView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\SrvrItem.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\SrvrItem.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\StdAfx.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\res\IToolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\res\Map.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\res\Map.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\res\MapDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\res\search.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 9 - Event Tracking\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\IpFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\IpFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\Map.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\Map.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\Map.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\Map.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\Map.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\Map.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\Map.ncb
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\Map.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\Map.reg
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\MapDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\MapDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\MapObjects.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\MapObjects.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\MapView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\MapView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\SrvrItem.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\SrvrItem.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\StdAfx.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\res\IToolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\res\Map.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\res\Map.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\res\MapDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\res\search.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 8 - Statistical Mapping\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\IpFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\IpFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\Map.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\Map.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\Map.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\Map.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\Map.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\Map.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\Map.ncb
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\Map.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\Map.reg
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\MapDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\MapDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\MapObjects.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\MapObjects.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\MapView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\MapView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\SrvrItem.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\SrvrItem.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\StdAfx.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\res\IToolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\res\Map.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\res\Map.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\res\MapDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\res\search.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 7 - DataConnection Object\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\IpFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\IpFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\Map.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\Map.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\Map.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\Map.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\Map.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\Map.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\Map.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\Map.reg
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\MapDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\MapDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\MapObjects.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\MapObjects.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\MapView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\MapView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\SrvrItem.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\SrvrItem.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\StdAfx.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\res\IToolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\res\Map.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\res\Map.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\res\MapDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\res\search.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 6 - Spatial Query\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\IpFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\IpFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\Map.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\Map.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\Map.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\Map.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\Map.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\Map.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\Map.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\Map.reg
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\MapDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\MapDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\MapObjects.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\MapObjects.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\MapView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\MapView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\SrvrItem.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\SrvrItem.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\StdAfx.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\res\IToolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\res\Map.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\res\Map.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\res\MapDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\res\search.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 5 - Scale Based Display\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\IpFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\IpFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\Map.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\Map.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\Map.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\Map.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\Map.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\Map.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\Map.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\Map.reg
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\MapDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\MapDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\MapObjects.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\MapObjects.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\MapView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\MapView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\SrvrItem.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\SrvrItem.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\StdAfx.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\res\IToolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\res\Map.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\res\Map.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\res\MapDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\res\search.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 4 - Search\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\IpFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\IpFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\Map.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\Map.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\Map.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\Map.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\Map.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\Map.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\Map.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\Map.reg
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\MapDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\MapDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\MapObjects.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\MapObjects.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\MapView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\MapView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\SrvrItem.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\SrvrItem.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\StdAfx.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\res\IToolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\res\Map.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\res\Map.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\res\MapDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 3 - Toolbar\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\IpFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\IpFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\Map.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\Map.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\Map.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\Map.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\Map.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\Map.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\Map.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\Map.reg
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\MapDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\MapDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\MapObjects.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\MapObjects.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\MapView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\MapView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\SrvrItem.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\SrvrItem.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\StdAfx.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\res\IToolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\res\Map.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\res\Map.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\res\MapDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 2 - Pan and Zoom\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\IpFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\IpFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\Map.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\Map.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\Map.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\Map.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\Map.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\Map.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\Map.ncb
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\Map.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\Map.reg
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\MapDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\MapDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\MapObjects.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\MapObjects.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\MapView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\MapView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\SrvrItem.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\SrvrItem.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\StdAfx.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\res\IToolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\res\Map.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\res\Map.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\res\MapDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\res\search.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 10 - Print Preview\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\IpFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\IpFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\Map.aps
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\Map.clw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\Map.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\Map.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\Map.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\Map.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\Map.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\Map.reg
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\MapDoc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\MapDoc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\MapObjects.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\MapObjects.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\MapView.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\MapView.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\SrvrItem.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\SrvrItem.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\StdAfx.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\res\IToolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\res\Map.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\res\Map.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\res\MapDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\Step 1\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\res\IToolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\res\Map.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\res\Map.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\res\MapDoc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\res\search.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\CGuide\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\AddShape.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\AddShape.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\AddShape.mak
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\AddShape.mdp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\AddShape.ncb
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\AddShape.rc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\AddShape.reg
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\Doc.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\Doc.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\IpFrame.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\IpFrame.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\MainFrm.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\MainFrm.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\resource.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\SrvrItem.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\SrvrItem.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\StdAfx.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\View.cpp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\View.h
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\res\AddShape.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\res\AddShape.rc2
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\res\Doc.ico
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\res\IToolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\MFC\AddShape\res\Toolbar.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Getting Started with Delphi 3.doc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Sample.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\zoomfactor\ZoomFact.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\zoomfactor\ZoomFact.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\zoomfactor\Zoomfactor.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\zoomfactor\Zoomfactor.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\zoomfactor\Zoomfactor.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\TravelSample\Travel.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\TravelSample\Travel.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\TravelSample\travelsample.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\TravelSample\travelsample.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\TravelSample\travelsample.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Tracking\Tracking.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Tracking\Tracking.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Tracking\Tracking_1.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Tracking\Tracking_1.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Tracking\Tracking_1.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\thematicMap\fields.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\thematicMap\fields.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\thematicMap\Thematic.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\thematicMap\Thematic.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\thematicMap\Thematicmap.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\thematicMap\Thematicmap.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\thematicMap\Thematicmap.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Spatial\fields.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Spatial\fields.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Spatial\Spatial.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Spatial\Spatial.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Spatial\Spatial1.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Spatial\Spatial1.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Spatial\Spatial1.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\sendmap\MAPI.PAS
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\sendmap\sendmap.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\sendmap\sendmap.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\sendmap\SendMap1.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\sendmap\SendMap1.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\sendmap\SendMap1.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\SDEConnect\sample.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\SDEConnect\Sdeconnect.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\SDEConnect\Sdeconnect.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\SDEConnect\SDEConnectSample.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\SDEConnect\SDEConnectSample.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\MousePointer\Mousepointer.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\MousePointer\Mousepointer.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\MousePointer\Mouse_Pointer.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\MousePointer\Mouse_Pointer.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\MousePointer\Mouse_Pointer.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\MapTips\MapTips.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\MapTips\MapTips.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\MapTips\MapTips2.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\MapTips\MapTipsSample.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\MapTips\MapTipsSample.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\MapTips\MapTipsSample.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Locator\locate.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Locator\locate.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Locator\locator.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Locator\locator.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Locator\locator.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Labeler\FeatureLabel.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Labeler\fields.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Labeler\fields.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Labeler\Labeler.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Labeler\Labeler.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Labeler\LabelerSample.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Labeler\LabelerSample.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Labeler\LabelerSample.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Labeler\LabelLayer.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\image\Image.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\image\Image.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\image\Image.~df
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\image\image1.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\image\image1.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\image\image1.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\image\image1.~dp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Identify\fields.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Identify\fields.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Identify\Identify.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Identify\Identify.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Identify\Identify1.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Identify\Identify1.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Identify\Identify1.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Edit\Dragfeedback.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Edit\edit.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Edit\edit.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Edit\EditLayer.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Edit\editsample.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Edit\editsample.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Edit\editsample.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Edit\SnappingGrid.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\drawtext\Drawtext.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\drawtext\Drawtext.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\drawtext\Draw_text.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\drawtext\Draw_text.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\drawtext\Draw_text.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\dragrect\DragFeedback.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\dragrect\Dragrec.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\dragrect\Dragrec.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\dragrect\Drag_rect.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\dragrect\Drag_rect.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\dragrect\Drag_rect.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\DescribeShape\DescribeShape.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\DescribeShape\DescribeShape.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\DescribeShape\DescShape.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\DescribeShape\DescShape.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\DescribeShape\DescShape2.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\DescribeShape\DescShape2.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\DescribeShape\DescShape3.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\DescribeShape\DescShape3.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\DescribeShape\fields.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\DescribeShape\fields.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\readme.doc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Dispatch Based\CustomSym.doc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Custom Client\BUTTRFLY.WMF
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Custom Client\customclient.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Custom Client\customclient.exe
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Custom Client\customclient.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Custom Client\example.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Custom Client\example.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Custom Client\metapointsymbol.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Custom Client\Sample.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Custom Based\customsymbol.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Custom Based\CustSymbolSet1.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Custom Based\DelphiCustom.dll
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Custom Based\DelphiCustom.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Custom Based\DelphiCustom.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Custom Based\DelphiCustom.tlb
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\CustomSymbol\Custom Based\guids.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Annotation\Annotation.dcu
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Annotation\Annotation.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Annotation\Annotation.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Annotation\Annotation1.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Annotation\Annotation1.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\Annotation\Annotation1.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\AddressMatch\Address_match.dfm
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\AddressMatch\Address_match.pas
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\AddressMatch\Address_Match1.dof
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\AddressMatch\Address_Match1.dpr
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Delphi\AddressMatch\Address_Match1.res
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\PB\Getting Started with PowerBuilder.pdf
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\PB\ThematicMapping\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\PB\ThematicMapping\thematicmapping.pbl
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\PB\Lesson\lesson.pbl
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\PB\Lesson\Readme.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\PB\CreateShape\CreateShape.pbl
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\PB\CreateShape\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\PB\AddressMatching\addressmatching.pbl
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\PB\AddressMatching\ReadMe.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\arrow.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\bex.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\boxSel.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\check.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\find.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\globe.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\id.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\label.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\pan.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\pennant.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\poly.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\print.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\split.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\toc.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\uncheck.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\BitMaps\zoom.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\CITIES.DBF
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\CITIES.SHP
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\CITIES.SHX
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\demog.dbf
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\LAKES.DBF
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\LAKES.SHP
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\LAKES.SHX
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\RIVERS.DBF
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\RIVERS.SHP
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\RIVERS.SHX
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\ROADS.DBF
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\ROADS.SHP
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\ROADS.SHX
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\STATES.DBF
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\STATES.SHP
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Mexico\STATES.SHX
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\NorthEast\counties.dbf
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\NorthEast\counties.shp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\NorthEast\counties.shx
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\NorthEast\necenter.dbf
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\NorthEast\necenter.shp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\NorthEast\necenter.shx
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Redlands\redlands.dbf
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Redlands\redlands.gcx
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Redlands\redlands.sbn
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Redlands\redlands.sbx
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Redlands\redlands.shp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Redlands\redlands.shx
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\CAPITALS.DBF
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\CAPITALS.SHP
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\CAPITALS.SHX
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\codemog.dbf
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\Counties.dbf
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\Counties.sbn
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\Counties.sbx
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\Counties.shp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\Counties.shx
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\STATES.DBF
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\STATES.SHP
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\STATES.SHX
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\USHIGH.DBF
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\USHIGH.SBN
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\USHIGH.SBX
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\USHIGH.SHP
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\USHIGH.SHX
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\USLAKES.DBF
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\USLAKES.SBN
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\USLAKES.SBX
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\USLAKES.SHP
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\USA\USLAKES.SHX
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Washington\ROADS.DBF
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Washington\ROADS.SHP
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Washington\ROADS.SHX
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Washington\SPOTRead.wri
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Washington\WASH.BMP
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\Washington\Wash.bmpw
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\cities.dbf
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\cities.shp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\cities.shx
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\country.dbf
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\country.shp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\country.shx
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\DEMOG.DBF
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\lakes.dbf
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\lakes.shp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\lakes.shx
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\latlon.dbf
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\latlon.shp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\latlon.shx
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\POL_ORG.DBF
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\rivers.dbf
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\rivers.shp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Samples\Data\World\rivers.shx
+File Overwrite: C:\Program Files\ESRI\MapObjects\ReadMeMO.wri
+File Overwrite: C:\Program Files\ESRI\MapObjects\Logo\!globe.bmp
+File Overwrite: C:\Program Files\ESRI\MapObjects\Logo\!globe.gif
+File Overwrite: C:\Program Files\ESRI\MapObjects\Logo\!globe.jpg
+File Overwrite: C:\Program Files\ESRI\MapObjects\Logo\Logo Guidelines.doc
+File Overwrite: C:\Program Files\ESRI\MapObjects\Logo\Logo Guidelines.txt
+File Overwrite: C:\Program Files\ESRI\MapObjects\Register In Menu.reg
+Date/Time: Following file not copied.
+File Overwrite: C:\WINNT\System32\ds16gt.dll
+Date/Time: Following file not copied.
+File Overwrite: C:\WINNT\System32\ds32gt.dll
+File Overwrite: C:\WINNT\System32\Odbc.inf
+Date/Time: Following file not copied.
+File Overwrite: C:\WINNT\System32\odbc16gt.dll
+Date/Time: Following file not copied.
+File Overwrite: C:\WINNT\System32\odbc32.dll
+Date/Time: Following file not copied.
+File Overwrite: C:\WINNT\System32\odbc32gt.dll
+Date/Time: Following file not copied.
+File Overwrite: C:\WINNT\System32\odbcad32.exe
+Date/Time: Following file not copied.
+File Overwrite: C:\WINNT\System32\odbccp32.dll
+Date/Time: Following file not copied.
+File Overwrite: C:\WINNT\System32\odbccr32.dll
+Date/Time: Following file not copied.
+File Overwrite: C:\WINNT\System32\odbcinst.hlp
+Date/Time: Following file not copied.
+File Overwrite: C:\WINNT\System32\ODBCINT.DLL
+File Overwrite: C:\WINNT\System32\ShpDrivr.dll
+Date/Time: Following file not copied.
+File Overwrite: C:\WINNT\System32\Mfc40.dll
+File Overwrite: C:\WINNT\System32\Msvcrt10.dll
+Date/Time: Following file not copied.
+File Overwrite: C:\WINNT\System32\Msvcrt20.dll
+Date/Time: Following file not copied.
+File Overwrite: C:\WINNT\System32\Msvcrt40.dll
+Date/Time: Following file not copied.
+File Overwrite: C:\WINNT\System32\Olepro32.dll
+File Overwrite: C:\WINNT\System32\Unwise32.exe
+Self-Register: C:\PROGRA~1\ESRI\MAPOBJ~1\MO10.OCX
+Self-Register: C:\PROGRA~1\ESRI\MAPOBJ~1\SHAPE.DLL
+Self-Register: C:\PROGRA~1\ESRI\MAPOBJ~1\ODBCTBL.DLL
+Self-Register: C:\PROGRA~1\ESRI\MAPOBJ~1\MOPLUS.DLL
+Self-Register: C:\PROGRA~1\ESRI\MAPOBJ~1\COVERAGE.DLL
+Self-Register: C:\PROGRA~1\ESRI\MAPOBJ~1\INFOTA~1.DLL
+Self-Register: C:\PROGRA~1\ESRI\MAPOBJ~1\JETTABLE.DLL
+Self-Register: C:\PROGRA~1\ESRI\MAPOBJ~1\AIIMAGE.DLL
+INI File: C:\WINNT\CONTROL.INI
+INI Sect: MMCPL
+INI Item: ODBC32
+INI Val: ODBCCP32.DLL
+INI Old: ODBCCP32.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: AIIMAGE.DLL
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: AIIMAGE.DLL
+INI Item: Register
+INI Val: $(DLLSelfRegister)
+INI Old: $(DLLSelfRegister)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: COVERAGE.DLL
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: COVERAGE.DLL
+INI Item: Register
+INI Val: $(DLLSelfRegister)
+INI Old: $(DLLSelfRegister)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: INFOTABLE.DLL
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: INFOTABLE.DLL
+INI Item: Register
+INI Val: $(DLLSelfRegister)
+INI Old: $(DLLSelfRegister)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: JETTABLE.DLL
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: JETTABLE.DLL
+INI Item: Register
+INI Val: $(DLLSelfRegister)
+INI Old: $(DLLSelfRegister)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MO10.OCX
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MO10.OCX
+INI Item: Register
+INI Val: $(DLLSelfRegister)
+INI Old: $(DLLSelfRegister)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MO10.OCX
+INI Item: Uses1
+INI Val: OCX Runtime Support
+INI Old: OCX Runtime Support
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MO10.OCX
+INI Item: Uses2
+INI Val: C:\Program Files\ESRI\MapObjects\AF10.DLL
+INI Old: C:\Program Files\ESRI\MapObjects\AF10.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MO10.OCX
+INI Item: Uses3
+INI Val: C:\Program Files\ESRI\MapObjects\AIIMAGE.DLL
+INI Old: C:\Program Files\ESRI\MapObjects\AIIMAGE.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MO10.OCX
+INI Item: Uses4
+INI Val: C:\Program Files\ESRI\MapObjects\SHAPE.DLL
+INI Old: C:\Program Files\ESRI\MapObjects\SHAPE.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MOPLUS.DLL
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MOPLUS.DLL
+INI Item: Register
+INI Val: $(DLLSelfRegister)
+INI Old: $(DLLSelfRegister)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MOSDE30.DLL
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MOSDE30.DLL
+INI Item: Register
+INI Val: $(DLLSelfRegister)
+INI Old: $(DLLSelfRegister)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MOSDE30.DLL
+INI Item: Uses1
+INI Val: C:\Program Files\ESRI\MapObjects\MOSDE30TABLE.DLL
+INI Old: C:\Program Files\ESRI\MapObjects\MOSDE30TABLE.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MOSDE30.DLL
+INI Item: Uses2
+INI Val: C:\Program Files\ESRI\MapObjects\PE.DLL
+INI Old: C:\Program Files\ESRI\MapObjects\PE.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MOSDE30.DLL
+INI Item: Uses3
+INI Val: C:\Program Files\ESRI\MapObjects\SDE30.DLL
+INI Old: C:\Program Files\ESRI\MapObjects\SDE30.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MOSDE30.DLL
+INI Item: Uses4
+INI Val: C:\Program Files\ESRI\MapObjects\SG.DLL
+INI Old: C:\Program Files\ESRI\MapObjects\SG.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MOSDE30TABLE.DLL
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: MOSDE30TABLE.DLL
+INI Item: Register
+INI Val: $(DLLSelfRegister)
+INI Old: $(DLLSelfRegister)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: ODBCTBL.DLL
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: ODBCTBL.DLL
+INI Item: Register
+INI Val: $(DLLSelfRegister)
+INI Old: $(DLLSelfRegister)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: ODBCTBL.DLL
+INI Item: Uses1
+INI Val: ODBC32.DLL
+INI Old: ODBC32.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: ODBCTBL.DLL
+INI Item: Uses2
+INI Val: DS16GT.DLL
+INI Old: DS16GT.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: ODBCTBL.DLL
+INI Item: Uses3
+INI Val: DS32GT.DLL
+INI Old: DS32GT.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: ODBCTBL.DLL
+INI Item: Uses4
+INI Val: ODBC.INF
+INI Old: ODBC.INF
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: ODBCTBL.DLL
+INI Item: Uses5
+INI Val: ODBC16GT.DLL
+INI Old: ODBC16GT.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: ODBCTBL.DLL
+INI Item: Uses6
+INI Val: ODBC32GT.DLL
+INI Old: ODBC32GT.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: ODBCTBL.DLL
+INI Item: Uses7
+INI Val: ODBCAD32.EXE
+INI Old: ODBCAD32.EXE
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: ODBCTBL.DLL
+INI Item: Uses8
+INI Val: ODBCCP32.DLL
+INI Old: ODBCCP32.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: ODBCTBL.DLL
+INI Item: Uses9
+INI Val: ODBCCR32.DLL
+INI Old: ODBCCR32.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: ODBCTBL.DLL
+INI Item: Uses10
+INI Val: ODBCINST.HLP
+INI Old: ODBCINST.HLP
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: ODBCTBL.DLL
+INI Item: Uses11
+INI Val: ODBCINT.DLL
+INI Old: ODBCINT.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: ODBCTBL.DLL
+INI Item: Uses12
+INI Val: SHPDRIVR.DLL
+INI Old: SHPDRIVR.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: PE.DLL
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: SDE.DLL
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: SDE.DLL
+INI Item: Register
+INI Val: $(DLLSelfRegister)
+INI Old: $(DLLSelfRegister)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: SDE.DLL
+INI Item: Uses1
+INI Val: C:\Program Files\ESRI\MapObjects\SDE21.DLL
+INI Old: C:\Program Files\ESRI\MapObjects\SDE21.DLL
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: SDE21.DLL
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: SDE30.DLL
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: SG.DLL
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: SHAPE.DLL
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: SHAPE.DLL
+INI Item: Register
+INI Val: $(DLLSelfRegister)
+INI Old: $(DLLSelfRegister)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: WEBLINK.OCX
+INI Item: Dest
+INI Val: $(WinSysPath)
+INI Old: $(WinSysPath)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: WEBLINK.OCX
+INI Item: Register
+INI Val: $(DLLSelfRegister)
+INI Old: $(DLLSelfRegister)
+INI File: C:\WINNT\SWDEPEND.INI
+INI Sect: WEBLINK.OCX
+INI Item: Uses1
+INI Val: C:\Program Files\ESRI\MapObjects\MO10.OCX
+INI Old: C:\Program Files\ESRI\MapObjects\MO10.OCX
+Shell Link: C:\WINNT\Profiles\All Users\Start Menu\Programs\ESRI\MapObjects 1.2\MapObjects Read Me.lnk
+Shell Link: C:\WINNT\Profiles\All Users\Start Menu\Programs\ESRI\MapObjects 1.2\MapObjects Online Reference.lnk
+Shell Link: C:\WINNT\Profiles\All Users\Start Menu\Programs\ESRI\MapObjects 1.2\Logo Guidelines.lnk
+Shell Link: C:\WINNT\Profiles\All Users\Start Menu\Programs\ESRI\MapObjects 1.2\The Developer Connection.lnk
+Shell Link: C:\WINNT\Profiles\All Users\Start Menu\Programs\ESRI\MapObjects 1.2\Uninstall MapObjects.lnk
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\MapObjects 1.2
+RegDB Val: ESRI MapObjects 1.2
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Old: ESRI MapObjects 1.2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\MapObjects 1.2
+RegDB Val: C:\WINNT\System32\Unwise32.exe C:\PROGRA~1\ESRI\MAPOBJ~1\Mo10.log
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Old: C:\WINNT\System32\Unwise32.exe C:\PROGRA~1\ESRI\MAPOBJ~1\Mo10.log
+User Rights: Admin
